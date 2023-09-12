@@ -2,6 +2,8 @@ library("Superpower")
 # https://cran.r-project.org/web/packages/Superpower/index.html
 # Vignettes:
 
+vignette(package="Superpower")
+
 # compromise_power       Introduction to Justifying Alpha Levels
 # intro_to_superpower    Introduction to Superpower 
 # more_anova_designs     More ANOVA designs
